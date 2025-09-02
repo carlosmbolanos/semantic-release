@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-test",
-  "version": "1.0.0-alpha.3",
+  "version": "1.0.0-alpha.4",
   "private": true,
   "description": "A simple repository to test semantic-release",
   "repository": "https://github.com/carlosmbolanos/semantic-release.git",
