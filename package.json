@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "description": "A simple repository to test semantic-release",
-  "repository": "https://github.com/tu-usuario/tu-repositorio.git",
-  "author": "Tu Nombre",
+  "repository": "https://github.com/carlosmbolanos/semantic-release.git",
+  "author": "Carlos",
   "license": "MIT",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
